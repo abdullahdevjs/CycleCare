@@ -1,0 +1,1 @@
+CycleCare V15 blue blueprint update. Dashboard and shared visual styles moved to a clean blue/white SaaS palette based on the supplied dashboard reference. Existing functionality and Supabase integration preserved.
